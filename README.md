@@ -1,6 +1,8 @@
 # V-Sekai.generative-nu
 
-This tool takes a 3D mesh and improves it.
+**Experimental Concept**
+
+This tool proposes takes a 3D mesh and improves it.
 
 1. Take a static glTF file, apply automatic weighting and cloth simulation, and output a VRM file.
 2. Take a VRM file and upload it to the V-Sekai CDN.
